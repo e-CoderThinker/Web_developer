@@ -1,0 +1,21 @@
+<html>
+	<head>
+	<title>e.0网站设计室：制作+搭建+运营+维护</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+	<style type="text/css">
+	#body {
+	background-color: #FFF;
+	height: 900px;
+	width: 1366px;
+}
+    </style>
+	</head>
+	<body bgcolor="#4F4FD0">
+	<div id="body">
+		<iframe id="subject">
+        </iframe>
+        <iframe id="content">
+        </iframe>      
+	</div>
+	</body>
+</html>
